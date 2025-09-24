@@ -1,1 +1,1 @@
-# PR1.2---Joc_endevina_el_n-mero
+# PR1.2---Joc_endevina_el_numero
